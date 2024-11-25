@@ -1,3 +1,3 @@
-60 dias de programação em python
-- [x] Dia 1
-- [x] Dia 2
+60 dias de programacao em python
+- [x] Dia 1 - ola mundo em python
+- [ ] Dia 2 
