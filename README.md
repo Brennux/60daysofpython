@@ -1,3 +1,3 @@
 60 dias de programação em python
-- [ ] Dia 1
-- [ ] Dia 2
+- [x] Dia 1
+- [x] Dia 2
