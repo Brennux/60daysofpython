@@ -7,3 +7,4 @@
 - [x] Dia 6 - lista de frutas
 - [x] Dia 7 - dicionario de aluno dinamico e estático
 - [x] dia 8 - check idade para dirigir 
+- [x] dia 9 - 
