@@ -9,4 +9,4 @@
 - [x] dia 8 - check idade para dirigir 
 - [x] dia 9 - contador de numeros
 - [x] dia 10 - gerador de senhas 
-- [x] dia 11 - 
+- [x] dia 11 - usamos a funcao sorted para ordernar uma lista
