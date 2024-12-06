@@ -12,3 +12,4 @@
 - [x] dia 11 - usamos a funcao sorted para ordernar uma lista
 - [x] dia 12 - busca linear utilizando listas
 - [x] dia 13 - funcao fatorial
+- [x] dia 14 - calculador de numeros primos
