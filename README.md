@@ -14,3 +14,4 @@
 - [x] dia 13 - funcao fatorial
 - [x] dia 14 - calculador de numeros primos
 - [x] dia 15 - fibonacci
+- [x] dia 16 - Anagramas
