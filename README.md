@@ -11,3 +11,4 @@
 - [x] dia 10 - gerador de senhas 
 - [x] dia 11 - usamos a funcao sorted para ordernar uma lista
 - [x] dia 12 - busca linear utilizando listas
+- [x] dia 13 - funcao fatorial
