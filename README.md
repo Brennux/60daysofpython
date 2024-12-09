@@ -16,4 +16,5 @@
 - [x] dia 15 - fibonacci
 - [x] dia 16 - Anagramas
 - [x] dia 17 - palídromos
-- [x] dia 18 - 
+- [x] dia 18 - contabilizar palavras de uma string
+- [x] dia 19 - 
