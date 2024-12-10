@@ -17,4 +17,5 @@
 - [x] dia 16 - Anagramas
 - [x] dia 17 - palídromos
 - [x] dia 18 - contabilizar palavras de uma string
-- [x] dia 19 - 
+- [x] dia 19 - calcular media
+- [x] dia 20 - 
