@@ -19,3 +19,4 @@
 - [x] dia 18 - contabilizar palavras de uma string
 - [x] dia 19 - calcular media
 - [x] dia 20 - 
+- [x] dia 21 -
