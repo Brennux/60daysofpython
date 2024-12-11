@@ -18,5 +18,7 @@
 - [x] dia 17 - palídromos
 - [x] dia 18 - contabilizar palavras de uma string
 - [x] dia 19 - calcular media
-- [x] dia 20 - 
-- [x] dia 21 -
+- [x] dia 20 - matriz transposta
+- [x] dia 21 - conversor de moedas dolar para real\
+- [x] dia 22 - calculadora de imc
+- [x] dia 23 - jogo da adivinhacao em python
