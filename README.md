@@ -22,3 +22,4 @@
 - [x] dia 21 - conversor de moedas dolar para real\
 - [x] dia 22 - calculadora de imc
 - [x] dia 23 - jogo da adivinhacao em python
+- [x] dia 24 - tabuada
