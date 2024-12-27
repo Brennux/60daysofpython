@@ -26,3 +26,5 @@
 - [x] dia 25 - Criamos um codigo que gera 10 numeros aleatorios
 - [x] dia 26 - criando uma funcao para escrever em .txt
 - [x] dia 27 - Conversor de temperatura
+- [x] dia 28 - 
+- [x] dia 29 - gerador de data e hora atual
