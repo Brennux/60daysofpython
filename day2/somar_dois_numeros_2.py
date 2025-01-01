@@ -1,4 +1,4 @@
-def somar(numero1, numero2):
+def somar(numero1, numero2):#
     somar_dois_numeros = numero1 + numero2
     print("somar_dois_numeros")
     return somar_dois_numeros
