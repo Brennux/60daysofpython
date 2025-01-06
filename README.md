@@ -30,3 +30,4 @@
 - [x] dia 28 - 
 - [x] dia 29 - gerador de data e hora atual
 - [x] dia 30 - Cronometro de 10 segundos
+- [x] dia 31 - Calculo de Raiz quadrada
