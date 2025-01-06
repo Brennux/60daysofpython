@@ -33,3 +33,4 @@
 - [x] dia 31 - Calculo de Raiz quadrada
 - [x] dia 32 - lançar dado em python
 - [x] dia 33 - contar ocorrencias
+- [x] dia 34 - arquivo json
